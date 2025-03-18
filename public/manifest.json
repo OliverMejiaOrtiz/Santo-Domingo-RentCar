@@ -1,0 +1,15 @@
+{
+  "short_name": "BoliRentCar",
+  "name": "BoliRentCar - Alquiler de vehículos en República Dominicana",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1d4ed8",
+  "background_color": "#ffffff"
+} 
